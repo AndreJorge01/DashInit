@@ -1,5 +1,5 @@
 # DashInit
-![dashinit](https://user-images.githubusercontent.com/86026272/164977800-fa8a07d3-ee4e-488c-97a6-0eec36d705d9.PNG)
+![DashInit](https://user-images.githubusercontent.com/86026272/164977858-1c0038fb-9394-44de-9e3f-9c4fe589c6a8.PNG)
 ## About
 Dashboard design for business projects practice
 
