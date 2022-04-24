@@ -2,7 +2,7 @@
 ![DashInit](https://user-images.githubusercontent.com/86026272/164977858-1c0038fb-9394-44de-9e3f-9c4fe589c6a8.PNG)
 ## About
 Dashboard design for business projects practice
-
+![dashinit gif](https://user-images.githubusercontent.com/86026272/164977942-3f508e0d-780b-4f9a-b3c4-8994aa586548.gif)
 ## Technologies used.
 + React
 + TypeScript
