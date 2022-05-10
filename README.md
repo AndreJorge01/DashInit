@@ -8,7 +8,7 @@ Dashboard design for business projects practice.
 + TypeScript.
 + Next.js.
 + Chakra Ui.
-+ Apexcharts
++ Apexcharts.
 
 
 # Start Dev Environment for VSCode.
