@@ -7,7 +7,7 @@ Dashboard design for business projects practice.
 + React.
 + TypeScript.
 + Next.js.
-+ Chakra Ui
++ Chakra Ui.
 + Apexcharts
 
 
